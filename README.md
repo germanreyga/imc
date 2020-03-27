@@ -3,8 +3,8 @@
 A new Flutter application.
 
 ## Students
-Jorge Germán Reyes
-Diego Moreno
+* Jorge Germán Reyes
+* Diego Moreno
 
 ## Getting Started
 
